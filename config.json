@@ -1,0 +1,18 @@
+{
+  "paths": {
+    "$": {
+      "toEncrypt": {
+        "pushFundingAccounts.encryptedPayload.encryptedData": "pushFundingAccounts.encryptedPayload"
+      },
+      "toDecrypt": {}
+    }
+  },
+  "ivFieldName": "iv",
+  "encryptedKeyFieldName": "encryptedKey",
+  "encryptedValueFieldName": "encryptedData",
+  "dataEncoding": "hex",
+  "encryptionCertificate": "resources/token-connect-request-encryption-sandbox.cer",
+  "oaepPaddingDigestAlgorithm": "SHA-512",
+  "encryptionCertificateFingerprintFieldName": "publicKeyFingerprint",
+  "oaepPaddingDigestAlgorithmFieldName": "oaepHashingAlgorithm"
+}

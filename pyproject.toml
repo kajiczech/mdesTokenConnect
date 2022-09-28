@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "mastercardtokenconnect"
+version = "0.1.0"
+description = ""
+authors = ["karelcech <karel.cech@twisto.cz>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+mastercard-client-encryption = "^1.5.0"
+mastercard-api-core = "^1.4.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,7 @@
+{
+  "Accept": "application/json; charset=UTF-8",
+  "Content-Type": "application/json; charset=UTF-8",
+  "User-Agent": "mastercard-api-core(python):1.4.12/0.1",
+  "Authorization": "OAuth oauth_consumer_key=\"jupJREh5fcPFzK8KVxYRf7nF3Jr8T9ONP5U7rcRDb17f5c90%21790460cb74da40548d041d2e83a6b2b30000000000000000\",oauth_nonce=\"GOllrXOEvWiVRJAS\",oauth_timestamp=\"1664377843\",oauth_signature_method=\"RSA-SHA256\",oauth_version=\"1.0\",oauth_body_hash=\"c4fBJa7Fh0qJ7PB3Q2M9fQav6RYs8bXkVPfzV8pNWZc%3D\",oauth_signature=\"R7Q6aMZLcnUKLTB3PanyqDTiI%2BjsdF8VnX73YaF8ivmSKI8dbVHTh0Rr%2B9NY10U2m%2BmQ8WJjemumlksDAXe6fu%2BO%2BUr%2BqrkdxEmLIjj7QTdalKdv6S4VeXbH8UahbihRDKYUbENdUrdIt9IepzhDe1s86UwOBpg6fec%2F%2BvEc5tASPYNpzTLjsMD5cnqKBPrO5N9Uyb2TNBpAk%2BY6AwLJmfbSy0NHydUAnPpcbvyQ3Oa3EbgOj6P98eEepVbwxjD967fVs8X5JyglaLQDXSSGUlQpyepWLyI%2BUNafNsN6HxobelZ8v2Gqzse9cPha5hQs%2B3ZuAcpSQBPfARo8y3N4sw%3D%3D\"",
+  "Content-Length": "2185"
+}

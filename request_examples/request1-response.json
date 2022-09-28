@@ -1,0 +1,17 @@
+{
+  "pushAccountReceipts": [
+    {
+      "pushAccountId": "CA-132d72d4fcb2f4136a0532d3093ff1ab",
+      "pushAccountReceipt": "MCC-STL-43233098-64B2-4930-A2D1-3D778894B02B"
+    }
+  ],
+  "availablePushMethods": [
+    {
+      "type": "WEB",
+      "uri": "https://sandbox.src.mastercard.com/provision"
+    }
+  ],
+  "signature": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjEwOTUyMzE2MTc0MTI5MTU4MDYifQ.eyJwdXNoQWNjb3VudFJlY2VpcHRzIjpbIk1DQy1TVEwtNDMyMzMwOTgtNjRCMi00OTMwLUEyRDEtM0Q3Nzg4OTRCMDJCIl0sImNhbGxiYWNrVVJMIjoiaHR0cHM6Ly9zYW5kYm94LnNyYy5tYXN0ZXJjYXJkLmNvbS9wcm92aXNpb24iLCJjb21wbGV0ZVdlYnNpdGVBY3RpdmF0aW9uIjpmYWxzZSwiYWNjb3VudEhvbGRlckRhdGFTdXBwbGllZCI6dHJ1ZSwibG9jYWxlIjoiZW5fVVMifQ.e-qIRpW_uEy2Ecd2_dhNNudy02o0wfw36PqpHwZUspkSskUsEgrBffyEiHGwCpuwVCKkh4T6YWlb9j5A3O-nUOCIq4CP4FsdViWUrUbSV8WR56YfxHnHV81XAzxu97MHpdfXHtnXwvogGV5hPbgJd9Eip6FctrcJEOCsns2paN8lSwxwBrNQ7ers40c2KPUCSBhqNGEeMOQSngAA129hA7tvwBr-CBEFP-L2dnAPrrkhlY3-aVxl8aohlEoqREhUtw7yVArxvEGOFXKfwCBmwst5iTSbvXpHP_h94OnJTV_rDOPbXCM27DsGeAYe7VECQBFQw79Z2rRmSkPPQ-9oWA",
+  "tokenRequestorSignatureSupport": true,
+  "responseId": "78de6ce0-df4f-4135-ae33-ff727795165e"
+}
