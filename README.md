@@ -9,9 +9,18 @@
 https://developer.mastercard.com/platform/documentation/security-and-authentication/securing-sensitive-data-using-payload-encryption/#client-libraries
 
 ## Encryption
+### Certificate files
 - For OAuth1 encryption, `resources/MDES_Token_Connect-sandbox.p12` file is used. 
-  - Sandbox credentials are in `providers.MDES_TOKEN_CONNECT_CREDENTIALS`.
 - For payload data encryption, `token-connect-request-encryption-sandbox.cer` certificate file is used.
+### Credentials
+```
+MDES_TOKEN_CONNECT_CREDENTIALS = {
+    "consumer_key": "jupJREh5fcPFzK8KVxYRf7nF3Jr8T9ONP5U7rcRDb17f5c90!790460cb74da40548d041d2e83a6b2b30000000000000000",
+    "key_store_path": "resources/MDES_Token_Connect-sandbox.p12",
+    "key_alias": "keyalias",
+    "key_password": "keystorepassword",
+}
+```
 
 ## SDKs
 ### Python
