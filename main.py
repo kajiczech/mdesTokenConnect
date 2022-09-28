@@ -1,7 +1,7 @@
 import json
 from providers import mdes_token_connect_provider
 
-# Encrypt data
+# Get data
 with open('request_examples/request1-data.json') as request_data_file:
     payload = json.load(request_data_file)
 
