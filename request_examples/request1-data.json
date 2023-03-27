@@ -5,28 +5,12 @@
     "encryptedPayload": {
       "encryptedData": [
         {
-          "pushAccountId": "CA-132d72d4fcb2f4136a0532d3093ff1ab",
+          "pushAccountId": "CA-132d72d4fcb2f4136a0532d3093ff1ff",
           "fundingAccountData": {
             "cardAccountData": {
-              "accountNumber": "5123456789012345",
+              "accountNumber": "5167721052060919",
               "expiryMonth": "12",
               "expiryYear": "23"
-            },
-            "accountHolderData": {
-              "accountHolderName": "John Doe",
-              "accountHolderAddress": {
-                "line1": "100 1st Street",
-                "line2": "Apt. 4B",
-                "city": "St. Louis",
-                "countrySubdivision": "MO",
-                "postalCode": "61000",
-                "country": "USA"
-              },
-              "accountHolderEmailAddress": "john.doe@anymail.com",
-              "accountHolderMobilePhoneNumber": {
-                "countryDialInCode": "1",
-                "phoneNumber": "7181234567"
-              }
             }
           }
         }
@@ -35,9 +19,9 @@
   },
   "signatureData": {
     "callbackURL": "https://sandbox.src.mastercard.com/provision",
-    "completeIssuerAppActivation": true,
+    "completeIssuerAppActivation": false,
     "completeWebsiteActivation": false,
-    "accountHolderDataSupplied": true,
-    "locale": "en_US"
+    "accountHolderDataSupplied": false,
+    "locale": "cs_CZ"
   }
 }
