@@ -1,0 +1,2 @@
+mastercard-client-encryption==1.5.0
+mastercard-api-core==1.4.12

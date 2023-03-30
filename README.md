@@ -1,5 +1,19 @@
 # MDES Token Connect sample integration
 
+## Project setup
+You need python 3.9 or higher to run this project
+You can install requirements using `poetry install` or
+```
+pip install -r requirements.txt
+```
+
+### Config
+Config for client ids, file setup etc. can be found in file `config.py`
+
+## Run
+the requests are setup and run from `main.py`
+to run the request use `./main.py` or `python main.py` from the project root
+
 ## Mastercard documentation
 - About tokenization: https://developer.mastercard.com/src-issuers/documentation/issuers/
 - About MDES token connect: https://developer.mastercard.com/mdes-token-connect/documentation/
